@@ -1,4 +1,5 @@
-.idea/*
+.idea/workspace.xml
+.idea/vcs.xml
 /vendor
 /node_modules
 /public/storage
